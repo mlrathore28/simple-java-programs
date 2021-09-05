@@ -1,7 +1,6 @@
 // Java Program to Add Two Integers
 
-// Header file for input output functions
-class AddIntegers {
+class AddTwoNumbers {
 
   public static void main(String[] args) {
     
