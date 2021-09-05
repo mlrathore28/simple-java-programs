@@ -1,6 +1,6 @@
 // Java Program to Check Whether a Number is Prime or Not
 
-public class CheckPrime {
+public class Prime {
 
   public static void main(String[] args) {
 
