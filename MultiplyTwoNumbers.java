@@ -1,6 +1,5 @@
 // Java Program to Multiply two Floating Point Numbers
 
-// Header file for input output functions
 public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
