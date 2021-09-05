@@ -1,6 +1,5 @@
 // Simple java program to display "Hello World"
 
-// Header file for input output functions
 class HelloWorld
 {
     // Your program begins with a call to main().
