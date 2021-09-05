@@ -1,6 +1,5 @@
 // Java Program to Print an Integer
 
-// Header file for input output functions
 import java.util.Scanner;
 
 public class PrintInteger {
