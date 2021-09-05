@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class ConcatTwoArrays {
+public class ConcateTwoArrays {
 
     public static void main(String[] args) {
         int[] array1 = {1, 2, 3};
