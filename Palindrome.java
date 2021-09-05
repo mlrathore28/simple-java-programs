@@ -1,6 +1,6 @@
 // Java Program to Check Palindrome
 
-class CheckPalindrome {
+class Palindrome {
   public static void main(String[] args) {
 
     String str = "Radar", reverseStr = "";
