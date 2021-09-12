@@ -1,6 +1,6 @@
 // Java Program to Print Fibonacci Series
   
-class Fibonacci {
+class FibonacciSeries {
   
     // Function to print N Fibonacci Number
     static void Fibonacci(int N)
